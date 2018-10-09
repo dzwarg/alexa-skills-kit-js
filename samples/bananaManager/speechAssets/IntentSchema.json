@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "GetBananas",
+      "slots": [
+        {
+          "name": "Freshness",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },{
+      "intent": "AddBananas",
+      "slots": [
+        {
+          "name": "Freshness",
+          "type": "LIST_OF_STATES"
+        },
+        {
+          "name": "Some",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },{
+      "intent": "RemoveBananas",
+      "slots": [
+        {
+          "name": "Freshness",
+          "type": "LIST_OF_STATES"
+        },
+        {
+          "name": "Some",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

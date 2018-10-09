@@ -1,0 +1,44 @@
+GetBananas how many bananas
+GetBananas to count the bananas
+GetBananas to quantify the bananas
+GetBananas how many {Freshness} bananas
+GetBananas to count the {Freshness} bananas
+GetBananas to quantify the {Freshness} bananas
+
+AddBananas to get {Some} bananas
+AddBananas to buy {Some} bananas
+AddBananas to purchase {Some} bananas
+AddBananas to discover {Some} bananas
+AddBananas to steal {Some} bananas
+AddBananas to barf up {Some} bananas
+AddBananas to get {Some} {Freshness} bananas
+AddBananas to buy {Some} {Freshness} bananas
+AddBananas to purchase {Some} {Freshness} bananas
+AddBananas to discover {Some} {Freshness} bananas
+AddBananas to steal {Some} {Freshness} bananas
+AddBananas to barf up {Some} {Freshness} bananas
+AddBananas to add {Some} bananas
+AddBananas to add {Some} {Freshness} bananas
+AddBananas to put {Some} bananas
+AddBananas to put {Some} {Freshness} bananas
+
+RemoveBananas to lose {Some} bananas
+RemoveBananas to sell {Some} bananas
+RemoveBananas to eat {Some} bananas
+RemoveBananas to throw away {Some} bananas
+RemoveBananas to donate {Some} bananas
+RemoveBananas to give away {Some} bananas
+RemoveBananas to remove {Some} bananas
+RemoveBananas to lose {Some} bananas
+RemoveBananas to drop {Some} bananas
+RemoveBananas to discard {Some} bananas
+RemoveBananas to lose {Some} {Freshness} bananas
+RemoveBananas to sell {Some} {Freshness} bananas
+RemoveBananas to eat {Some} {Freshness} bananas
+RemoveBananas to throw away {Some} {Freshness} bananas
+RemoveBananas to donate {Some} {Freshness} bananas
+RemoveBananas to give away {Some} {Freshness} bananas
+RemoveBananas to remove {Some} {Freshness} bananas
+RemoveBananas to lose {Some} {Freshness} bananas
+RemoveBananas to drop {Some} {Freshness} bananas
+RemoveBananas to discard {Some} {Freshness} bananas
